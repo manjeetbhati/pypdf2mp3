@@ -11,3 +11,7 @@ when my college education medium was totally changed to english,
 thought it could be nice to have such utility for translating
 books which would help students in better understanding of
 concpets.
+
+## How to use
+> For instruction on how to use this utility follow the user
+guide https://github.com/manjeetbhatia/pypdf2mp3/blob/master/pdftopunjabi/doc/user_guide.md
