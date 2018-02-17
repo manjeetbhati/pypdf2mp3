@@ -1,4 +1,4 @@
-## PyPdf2Mp3
+## pdftopunjabi
 
 > Its a python project which reads a pdf document, then it
 sorts the data, translate it into punjabi and outputs a txt
