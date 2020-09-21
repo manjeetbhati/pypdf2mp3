@@ -7,19 +7,19 @@
 ##  Install Pip
 
 > sudo apt-get install python-pip python-dev build-essential 
->  sudo pip install --upgrade pip 
->  sudo pip install --upgrade virtualenv
+> sudo pip install --upgrade pip 
+> sudo pip install --upgrade virtualenv
     
   or optionally a script form github can be used to
 
-  wget https://github.com/manjeetbhatia/useful_files/blob/master/get_me_latest_pip.sh
-  chmod a+x get_me_latest_pip.sh
-  ./get_me_latest_pip.sh
+>  wget https://github.com/manjeetbhatia/useful_files/blob/master/get_me_latest_pip.sh
+>  chmod a+x get_me_latest_pip.sh
+>  ./get_me_latest_pip.sh
 
 ## Install Libraries
 
 > sudo pip install googletrans
-  sudo pip install PyPDF2
+> sudo pip install PyPDF2
 
 ## Get pypdf2mp3
 
