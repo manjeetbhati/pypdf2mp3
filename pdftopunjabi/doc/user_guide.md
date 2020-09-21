@@ -25,6 +25,7 @@
 
 > git clone https://github.com/manjeetbhatia/pypdf2mp3
   cd pypdf2mp3/pdftopunjabi
+  
   python pdf_to_punjabi.py -f "filepath" -o "outpufilename"
  
 Note: It may take several minutes to output translated file.
